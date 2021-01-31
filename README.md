@@ -41,7 +41,7 @@ Microsoft社の公式ドキュメントに記載のある"チュートリアル:
 
 # Licence
 
-[MIT](https://github.com/okumurays/ContosoTeamStats/master/LICENCE)
+[MIT](https://github.com/okumurays/ContosoTeamStats/blob/master/LICENSE)
 
 # Author
 
