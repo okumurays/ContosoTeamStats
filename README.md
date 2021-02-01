@@ -43,7 +43,7 @@ Microsoft社の公式ドキュメントに記載のある"チュートリアル:
 - ただし末尾に,allowAdmin=trueを追加すること
   - (例) xxxx.redis.cache.windows.net:6380,password=xxxxx,ssl=True,abortConnect=False,allowAdmin=true
 
-# Licence
+# License
 
 [MIT](https://github.com/okumurays/ContosoTeamStats/blob/master/LICENSE)
 
